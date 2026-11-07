@@ -1,0 +1,6 @@
+# API keys for the LinkedIn skills (Apify, Publora, Pixfaro) live here; never commit them
+.env
+.env.local
+__pycache__/
+*.pyc
+.venv/
